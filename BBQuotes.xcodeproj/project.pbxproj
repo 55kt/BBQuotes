@@ -11,6 +11,7 @@
 		4B5C841C2CA9CD86009BF1C7 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5C841B2CA9CD86009BF1C7 /* Character.swift */; };
 		4B5C841E2CA9CE87009BF1C7 /* Death.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5C841D2CA9CE87009BF1C7 /* Death.swift */; };
 		4B5C84202CAAF217009BF1C7 /* FetchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5C841F2CAAF217009BF1C7 /* FetchService.swift */; };
+		4B5C84222CAC4273009BF1C7 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5C84212CAC4273009BF1C7 /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4B5C841B2CA9CD86009BF1C7 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		4B5C841D2CA9CE87009BF1C7 /* Death.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Death.swift; sourceTree = "<group>"; };
 		4B5C841F2CAAF217009BF1C7 /* FetchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchService.swift; sourceTree = "<group>"; };
+		4B5C84212CAC4273009BF1C7 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -46,6 +48,7 @@
 				4B5C84192CA9CD19009BF1C7 /* Quote.swift */,
 				4B5C841B2CA9CD86009BF1C7 /* Character.swift */,
 				4B5C841F2CAAF217009BF1C7 /* FetchService.swift */,
+				4B5C84212CAC4273009BF1C7 /* ViewModel.swift */,
 				4B5C841D2CA9CE87009BF1C7 /* Death.swift */,
 				4B5C84032CA9BE1F009BF1C7 /* BBQuotes */,
 				4B5C84022CA9BE1F009BF1C7 /* Products */,
@@ -138,6 +141,7 @@
 				4B5C841A2CA9CD19009BF1C7 /* Quote.swift in Sources */,
 				4B5C84202CAAF217009BF1C7 /* FetchService.swift in Sources */,
 				4B5C841C2CA9CD86009BF1C7 /* Character.swift in Sources */,
+				4B5C84222CAC4273009BF1C7 /* ViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
